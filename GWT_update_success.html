@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+	<head>
+		<title> Agri-Data-Culture </title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css">
+		 <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+		 <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+  		<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js"></script>
+  		<style>
+  			html{
+  				background:#000;
+  			}
+  			body{
+  				position:relative;
+  				color:#fff;
+  				margin:auto;
+  			}
+  		</style>
+  	</head>
+  	<body>
+  		<div class="container">
+  		<h2 style="text-align:center;color:green"> ICRISAT Inventory</h2>
+	  		<div class="row">
+					<h2 style="color:orange;font-size:18pt;text-align:center"> GWT updated successfully! <br><br></h2>
+					<form action="http://0.0.0.0:2000/check_inventory" method="get"><br><br>
+				  <input type="submit"  value=" Click to check other genotype's inventory details " style="font-size:15pt;color:white;background-color:green;border:1px solid #336600;padding:0px">
+				</form>
+				<form action="http://0.0.0.0:2000/home" method="get"><br><br><br><br>
+				<input type="submit"  value=" Click to go home " style="font-size:15pt;color:white;background-color:green;border:1px solid #336600;padding:0px">
+			</form>
+
+			</div>
+		</div>
+	</body>
+</html>

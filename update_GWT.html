@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+	<head>
+		<title> Agri-Data-Culture </title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css">
+		 <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+		 <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+  		<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js"></script>
+  		<style>
+  			html{
+  				background:#000;
+  			}
+  			body{
+  				position:relative;
+  				color:#fff;
+  				margin:auto;
+  			}
+  		</style>
+  	</head>
+  	<body>
+  		<div class="container">
+	  		<div class="row">
+					<form action="http://0.0.0.0:2000/update_GWT" method="post"><br><br><br>
+							<h2 style="color:white;font-size:15pt;text-align:center"> G.Alias is {{GAlias}}  ;  GWT is {{GWT}}  ;  Tray number is {{Tray}} ; time1 is {{time1}} ; time2 is {{time2}} <br><br></h2><br>
+					<input type="hidden"name="row" value={{row}}>
+					<h2 style="color:white;font-size:12pt;"> Wish to update GWT? </h2>
+					<input type="text" name="GWT"><br><br>
+					<input type="submit"  value="Update" style="font-size:15pt;color:white;background-color:green;border:1px solid #336600;padding:0px">
+				</form>
+				<form action="http://0.0.0.0:2000/check_inventory" method="get"><br><br><br>
+				<input type="submit"  value=" Click to check other genotype details " style="font-size:15pt;color:white;background-color:orange;border:1px solid #336600;padding:0px">
+			</form>
+			<form action="http://0.0.0.0:2000/home" method="get"><br><br><br>
+			<input type="submit"  value=" Click to go home " style="font-size:15pt;color:white;background-color:orange;border:1px solid #336600;padding:0px">
+		</form>
+			</div>
+		</div>
+	</body>
+</html>

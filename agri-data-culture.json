@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "agri-data-cultur-1487776060588",
+  "private_key_id": "e27adac64059a4af2797b15f713c09b351d1663d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCb5YnRIlaRZVG3\nwpu80Lw6BcbWjyhIA4H4nEw0iuNkcg+xNqg2KJzEM7rl/dorb0DezIg5BInbzKTs\n5o0Z7K6Wf8YuBzwMOFHXD366MS6HrDE+RMHKcLBjPfI/kDkLDYifXBUmWIx4S3B3\nEmyUEkW45EQlE89e8KoS+EVfz27aEMagA41wniCheBAht0biW2sOfAB3+Le+8nla\nrniOf1U07xBiekPwS+vEFSD8SgjqRtnj5nmSkJLbLBARatQDJz/+xP8meC/NT3Vp\nc2XE9pmWo+xREnoAkHdYj3XWigcjGLP+jm27tEFDDBf7j+FPRUE9QFlhnqDwCxrJ\nqnAaHz7XAgMBAAECggEAIh+PGAjFHBQqW+esARtLaAPlrwcs0P57j3hesc2I0m6p\nAqgtD5W6IrQT/82d2I4EjAAG/TwCFOtpWjVowzjsSiLztRV+Tkpxl3pbydOEFMxb\nBv8zz+T0pvRjNwiRg9rVgdQ9COSu8pHIrzeILq0FN+A3DkqUxHo3L+nJ/ZvA7tgP\ntfA540FgIQ9MGv4tsa5unWMsHTj3y2PlXOrsNWzA2cmNTm3+FZF+F6ZVmtgLDb3W\nRYvJYbdyeod/69ncM8gfz8b14uVQZFrwgelairqBFNG255MCJSoN6pgWOx/HX5NO\ng71QMyl5Aoa8rp/KHaSWDoeAGkSqV3yfiievRxIvaQKBgQDM702DWj+zf7k9V74A\nHc1Q4SljeUQar8aFYI/PjVIag9UVvEiasE5MRn2XFU+I3wbTP9a+Wcn4s34GbXtl\nHkSpOpoZWe4MBnOYKRco1k151aIqnt3qDpw9VrQOkA8pRs2Ucp7BO4Ms2v+FcULm\nqzTzRDPxo//uyfBhQqTLH2OVawKBgQDCvh1RJC1KIM9PYlZZPafG+4S7yjyrr8FG\nQAj5oFhkx92fWYXChxQh/tMamA1deu6Tq6UaZy2kIZzTfVIRFZlEaLYQ+ItLaySE\nfQVo0GAQ75/E/hHpFR/ynKcVDihx+bokJmnrasO8DRxYMga5Z//kRO/ykYJGNsFa\nDjyaK00rRQKBgHvxLtwGNQiGcq3a5xqC663Cv5lduga50ELSR6erPMC0gqcGnJKR\nlokjCMnbJaMN377bmTC+dRxo0gtpI3vgdn4y5wf2D7ZOIJMiJtOX6HuK7O0B8Ayi\nkXO3gGZeUg0QuTzSpZkQOSFjwa4e9es0GG4YDaJTIXJ1x1/LQodmkH/JAoGBAIDy\np7Dptn9mGD9lSu3OcIDGXI6IDAJW3zBoCElaTg11dh8khPhYvxD/jcMHOZpTYxQu\nzKUd+s+6XgB/885SMellOGEmYf2vVT/RFLrhdyrfsDgdT7i5fy0DY3MCq+9EP2fe\nc7YpPLARMlqHzYIJBhydNRC2Hr/lU8QQtzoSQAfNAoGAatVZ3+XxYOkYV9vTfQaU\nIUhJhTOkQfmh+9cMIZo4ldmuo8cJFba6SM3Ag8dRc8uIOu5CwBeUbVsNyrMdRwMs\npYnjrCUQivsDVf2PMdC77jY2aW2ukOBZk9qVh0YR1BURqTBPFIGF7JDnhy9jenRU\n+DbkvURepys7wS5xvirBAB8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ee15btech11024-iith-ac-in@agri-data-cultur-1487776060588.iam.gserviceaccount.com",
+  "client_id": "104219843234747669667",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ee15btech11024-iith-ac-in%40agri-data-cultur-1487776060588.iam.gserviceaccount.com"
+}
